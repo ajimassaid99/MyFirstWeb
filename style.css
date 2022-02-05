@@ -21,7 +21,7 @@ b {
 #landing-page {
     background-attachment: fixed;
     position: relative;
-    height: 100vh;
+
     background-size: cover;
     background-image: url('./picture/Awal.jfif');
 }
